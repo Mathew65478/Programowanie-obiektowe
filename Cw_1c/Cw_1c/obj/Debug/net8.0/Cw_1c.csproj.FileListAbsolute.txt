@@ -1,0 +1,14 @@
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\bin\Debug\net8.0\Cw_1c.exe
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\bin\Debug\net8.0\Cw_1c.deps.json
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\bin\Debug\net8.0\Cw_1c.runtimeconfig.json
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\bin\Debug\net8.0\Cw_1c.dll
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\bin\Debug\net8.0\Cw_1c.pdb
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\obj\Debug\net8.0\Cw_1c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\obj\Debug\net8.0\Cw_1c.AssemblyInfoInputs.cache
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\obj\Debug\net8.0\Cw_1c.AssemblyInfo.cs
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\obj\Debug\net8.0\Cw_1c.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\obj\Debug\net8.0\Cw_1c.dll
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\obj\Debug\net8.0\refint\Cw_1c.dll
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\obj\Debug\net8.0\Cw_1c.pdb
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\obj\Debug\net8.0\Cw_1c.genruntimeconfig.cache
+C:\Users\Mateusz\source\repos\Cw_1c\Cw_1c\obj\Debug\net8.0\ref\Cw_1c.dll
